@@ -79,12 +79,8 @@ last_modified:
 landing_page:
   ja: '/index.html'
 
-# mastodon: 
-#   en:
-#     - instance: 'mathstodon.xyz'
-#       username: 'yoriyuki'
-#   ja:
-#     - instance: 'mastodon.social'
-#       username: 'yoriyuki'
+mastodon: 
+  instance: 'mstdn.jp'
+  username: 'plainlyphilosophical'
 
 github_username: 'plainly-philosophical'
