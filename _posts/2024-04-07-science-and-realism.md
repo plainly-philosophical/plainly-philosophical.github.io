@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "科学と実在論"
-last_modified: 
+last_modified_at: 2024-04-06T19:47:50
 lang: ja
 ---
 
