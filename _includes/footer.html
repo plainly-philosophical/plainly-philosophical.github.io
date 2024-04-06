@@ -31,7 +31,7 @@
         {%- if page.last_modified -%}
         {%- assign mdate = page.last_modified | site.datetime_format -%}
         <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-          <p>{{ site.last_modified[page.lang]}}: {{ mdate }}</p>
+          <p>{{ site.last_modified_at[page.lang]}}: {{ mdate }}</p>
         </time>
         {%- endif -%}
         </div>
