@@ -71,6 +71,7 @@ header_pages:
 datetime_format: '%Y-%m-%d %H:%M'
 
 minima.date_format: '%Y-%m-%d'
+timezone: Asia/Tokyo
 
 last_modified_at:
   en: 'Last modified'
